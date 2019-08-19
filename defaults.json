@@ -1,0 +1,12 @@
+{
+    "Organisation": "pharma",
+    "Port": "4001",
+    "ChannelName": "pharmtrack",
+    "ChaincodeName": "pharmtrack",
+    "AdminName": "admin",
+    "AdminPassword": "adminpw",
+    "Events": [
+        "Event1",
+        "Event2"
+    ]
+}
